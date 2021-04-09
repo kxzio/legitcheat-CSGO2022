@@ -1,3 +1,0 @@
-﻿D:\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-  hvh.cpp
-  Dll1.vcxproj -> D:\Документы\rage_hack\blackbird\Dll1\..\build\horizon-csgo.dll
